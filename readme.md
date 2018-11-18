@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 Any software has apache server like laragon ,Xampp , Wampp  etc.
-Text Editor like vs code, sublime etc.
+Any Text Editor like vs code, sublime etc.
 ```
 
 ### Installing
